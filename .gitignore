@@ -1,0 +1,12 @@
+.idea
+__pycache__
+*.iml
+venv
+dist
+out
+python/__pycache__
+python/implimentation/__pycache__
+python/warmup/__pycache__
+python/*.iml
+cpp/__pycache__
+cpp/*.iml
